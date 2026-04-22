@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+קונדיטוריה בוטיק של פסטרי שף פרננדו: מתוקים אומנותיים בהזמנה מראש, מוכנים במיוחד עבורכם. גלו עולם של טעמים מיוחדים ואיכות ללא פשרות — הזמינו עוד היום!
+
+### חוויית הזמנה מוקדמת
+https://example.com/pre-order-experience
+גלו כיצד עובדת חוויית ההזמנה המוקדמת של פסטרי שף פרננדו: בחרו את המתוק המושלם, שלחו הזמנה בקלות, וקבלו יצירת קונדיטוריה אומנותית שהוכנה במיוחד עבורכם — מינימום 4 ימים מראש!
+
+### אודות
+https://example.com/about
+פסטרי שף פרננדו הוא אומן קונדיטוריה עם תשוקה עמוקה למתוקים יוצאי דופן. כל יצירה מספרת סיפור של מקצועיות, יצירתיות ואהבה אמיתית לאוכל — הכירו את האדם שמאחורי הטעמים המיוחדים!
+
+### צור קשר
+https://example.com/contact
+רוצים להזמין עוגות מיוחדות להזמנה מראש מקונדיטוריית פסטרי שף פרננדו? מלאו את הטופס ונחזור אליכם בהקדם. זכרו — יש להזמין לפחות 4 ימים מראש. צרו קשר ותנו לנו להפתיע אתכם!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Fernando Pastry Chef
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Fernando Pastry Chef
+
+### Category
+https://example.com/category/:slug
+מוצרים - Fernando Pastry Chef
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
